@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 250 125" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Oxygen Mono">@import url(https://fonts.googleapis.com/css2?family=Oxygen+Mono%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <g transform="matrix(1.002547979355, 0, 0, 1.009417057037, -125.000165158359, -77.708980463226)" style="transform-origin: 249.74px 0.833268px;">
+    <title>cr.ux logo</title>
+    <rect x="147.76" y="90.464" width="204.479" height="87.908" style="stroke: rgb(0, 0, 0); fill: none;">
+      <title>outer-container</title>
+    </rect>
+    <rect y="170.587" width="163.088" height="17.847" style="fill: rgb(241, 255, 110);" x="170.113">
+      <title>cut-out-highlight</title>
+    </rect>
+    <text style="fill: rgb(51, 51, 51); font-family: 'Oxygen Mono'; font-size: 64px; font-weight: 700; letter-spacing: -1px; text-transform: lowercase; white-space: pre;" x="154.486" y="152.364"><title>cr.ux</title>cr.ux</text>
+    <text style="fill: rgb(51, 51, 51); font-family: 'Oxygen Mono'; font-size: 10px; font-weight: 200; letter-spacing: 3px; text-transform: lowercase; word-spacing: 0.5px; white-space: pre;" x="3.993"><title>find the essence</title><tspan x="181.491" y="182.411" style="font-size: 10px; word-spacing: 0.5px; letter-spacing: 3px;">find the </tspan><tspan style="fill: rgb(215, 3, 3); font-size: 10px; word-spacing: 0.5px; letter-spacing: 3px;">essence</tspan></text>
+  </g>
+</svg>
+<!-- Edited in Boxy SVG: https://boxy-svg.com/app -->
